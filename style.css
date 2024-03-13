@@ -1,0 +1,32 @@
+.first{
+    border: solid;
+    width: 600px; height: 800px;
+}
+
+
+
+.font{
+    font-family:addisplay ;
+    color: rgb(218, 36, 66);
+    font-size: 100px;
+    text-shadow: 2px 2px 3px #2c2828;}
+    label{
+        margin-left: 2%;
+    }
+
+.heading{
+    font-family: myfont;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    
